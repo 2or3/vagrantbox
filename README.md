@@ -1,4 +1,4 @@
 # set up
-```bash
-rb setup.rb
+```
+$ ruby setup.rb
 ```
