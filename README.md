@@ -4,8 +4,6 @@
  - https://www.virtualbox.org/
 - Vagrant official site.
  - http://www.vagrantup.com/
-- Please read the following link.
- - http://blog.collarks.net/?p=76
 
 #### Second. Execute following script.
 ```
@@ -20,3 +18,6 @@ $ vagrant up
 ```
 $ vagrant ssh
 ```
+
+- Please read the following link.
+ - http://blog.collarks.net/?p=76
