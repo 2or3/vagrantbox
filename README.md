@@ -1,9 +1,7 @@
 # set up
 #### First. Install VirtualBox Manager 4.3.6 and Vagrant 1.4.3.
-- VirtualBox official site.
- - https://www.virtualbox.org/
-- Vagrant official site.
- - http://www.vagrantup.com/
+- [VirtualBox official site](https://www.virtualbox.org/)
+- [Vagrant official site](http://www.vagrantup.com/)
 
 #### Second. Execute following script.
 ```
