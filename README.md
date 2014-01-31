@@ -20,4 +20,4 @@ $ vagrant ssh
 ```
 
 - Please read the following link.
- - http://blog.collarks.net/?p=76
+ - [2or3 tech blog](http://blog.collarks.net/?p=76)
